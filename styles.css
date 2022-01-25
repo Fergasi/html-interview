@@ -5,6 +5,7 @@ div {
     width: 350px;
     height: auto;
     padding: 25px; /*Padding is used to create space around and element's content, inside of any defined borders.*/
+    background-color: cornsilk;
 
 }
 
@@ -23,7 +24,7 @@ body {
 
 h1, h2, h6 {
     font: sans-serif;
-    color: cornsilk;
+    color: black;
 }
 © 2022 GitHub, Inc.
 Terms
