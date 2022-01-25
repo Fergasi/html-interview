@@ -7,8 +7,7 @@ div {
     padding: 25px; /*Padding is used to create space around and element's content, inside of any defined borders.*/
     background-color: cornsilk;
     box-shadow: 5px 10px;
-    display: flex;
-    align-items: center;
+   
 
 }
 
