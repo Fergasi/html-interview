@@ -1,0 +1,30 @@
+
+div {
+    border-color: blue;
+    border-style: solid;
+    width: 350px;
+    height: auto;
+    padding: 25px; /*Padding is used to create space around and element's content, inside of any defined borders.*/
+
+}
+
+img {
+    border-style: solid;
+    border-radius: 50px;
+}
+
+li {
+    margin: 10px;
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80')
+}
+
+h1, h2, h6 {
+    font: sans-serif;
+    color: cornsilk;
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
